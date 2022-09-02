@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Khokhar</h1>
 - 🔭 I’m currently working on **Data-structures & Algorithms**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Computer Vision and Machine Learning**
 
 - 💬 Ask me about **Data-structures & Algorithms**
 
